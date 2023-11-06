@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(248, 194, 225);
+}
+.img-fluid{
+    border-radius: 50%;
+}
+span{
+    color: rgb(244, 9, 134);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(171, 10, 245) ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    
+}
